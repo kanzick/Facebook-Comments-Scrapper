@@ -12,6 +12,6 @@ WORK BEST ON EDGE. Chrome still works but not stable.
 ----------------------------------------------------------------------------------
 *planning features:
 1. option for other browser (Chromium, Firefox, Zen,...)
-2. variant languages
+2. variant languages support
 3. TUI terminal design
  and much more...!

@@ -5,7 +5,7 @@ Using Python with Selenium, it automatically opens the browser, browses the post
 Very simple: just run the .bat or .py file in vscode (automatically downloads the necessary libraries, don't worry) and follow the steps.
 Make sure you have Python installed (any version will ok).
 
-WORK BEST ON EDGE. Chrome still works but sometimes it's... stupid 🗿. 
+WORK BEST ON EDGE. Chrome still works but not stable. 
 
 ⚠️English/Vietnamese only!
 

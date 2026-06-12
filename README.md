@@ -1,4 +1,4 @@
-✨ Hi, I'm Kan and this is my first repository. A tool to collect comments from public Facebook posts!
+A tool to collect comments from public Facebook posts!
 
 Using Python with Selenium, it automatically opens the browser, browses the post and saves comments to a JSON file. It can save comments from multiple different posts (saved to a folder). Currently, only works with public or shared posts; doesn't work with reels or videos and comments containing images won't be saved.
 
